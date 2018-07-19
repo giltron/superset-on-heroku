@@ -25,4 +25,4 @@ SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'  # noqa
 SQLALCHEMY_DATABASE_URI = os.environ['JAWSDB_URL']
 
 # Flask-WTF flag for CSRF
-CSRF_ENABLED = True
+#CSRF_ENABLED = True
