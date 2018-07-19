@@ -6,6 +6,7 @@ import os
 SUPERSET_WORKERS = 1 # for it to work in heroku basic/hobby dynos increase as you like
 
 AUTH_ROLE_PUBLIC = 'Public'
+PUBLIC_ROLE_LIKE_GAMMA = True 
 
 # SUPERSET_WEBSERVER_PORT = 8088
 #---------------------------------------------------------
